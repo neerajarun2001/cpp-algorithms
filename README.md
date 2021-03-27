@@ -1,6 +1,6 @@
 ## Algorithms and Data Structures in C++
 This repository contains several important data structures and algorithms, 
 implemented in C++. Each implementation has brief notes and links to 
-further readings. This code is intended to be used as a learning tool. 
+further readings. This project is intended to be used as a learning tool. 
 
 
